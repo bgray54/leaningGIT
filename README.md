@@ -1,1 +1,6 @@
 # learningGIT
+line 5
+line 4
+line 3
+line 2
+line 1
